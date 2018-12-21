@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sodoku Brute</string>
+    <string name="solve_text">Solve Board</string>
+    <string name="reset_text">Clear Board</string>
+    <string name="app_description">Enter a proper Sodoku puzzle in the grid above and press the solve button to have the puzzle solved.</string>
+    <string name="close_text">Close</string>
+</resources>
