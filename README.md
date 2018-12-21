@@ -14,3 +14,8 @@ The Java version adds its own data structures for easy translation from Python i
 The Java console also uses a hardcoded game board, displays the original board, solved board, amount of time to solve in ms, and
 the number of recursive calls that were made during solving.
 
+SodokuBruteAndroidApp is the implementation of SodokuBruteJavaConsole as an android app build in AndroidStudio. 
+The app uses no hardcoded board and any solvable board can be entered. 
+The app gives the user instructions on how to enter the board into the grid and uses pop-up dialogs to give the user information. 
+The app displays the solution to the sodoku board and displays how long it took to solve the puzzle in milliseconds. 
+The logo and grind overlay images were made in Adobe Illustrator. 
